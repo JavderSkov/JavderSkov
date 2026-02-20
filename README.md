@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there, I'm [Your Name] 👋
 
-<!--
-**JavderSkov/JavderSkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Network Specialist & Linux Server Enthusiast 🐧
 
-Here are some ideas to get you started:
+I am highly passionate about building robust, secure network infrastructures and managing high-performance server environments. With a strong foundation in enterprise networking and Linux-based systems, I love diving deep into routing, firewall security, and system administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 A bit more about me
+
+💼 Currently working on: I have build our stock_management sys. (Build upon Partkeepr)
+
+🌱 Currently learning/strengthen: Python, HTML, Automating tasks and working on getting the CCNA
+
+💬 Ask me about: Firewall configurations, Linux server deployments, and network troubleshooting.
